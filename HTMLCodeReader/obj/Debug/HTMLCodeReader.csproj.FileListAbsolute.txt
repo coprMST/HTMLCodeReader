@@ -1,0 +1,11 @@
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\bin\Debug\HTMLCodeReader.exe.config
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\bin\Debug\HTMLCodeReader.exe
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\bin\Debug\HTMLCodeReader.pdb
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\HTMLCodeReader.csprojAssemblyReference.cache
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\VolgaIT_Kochetkov.AboutProgramForm.resources
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\VolgaIT_Kochetkov.MainWindow.resources
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\HTMLCodeReader.Properties.Resources.resources
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\HTMLCodeReader.csproj.GenerateResource.cache
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\HTMLCodeReader.csproj.CoreCompileInputs.cache
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\HTMLCodeReader.exe
+E:\VolgaIT_Kochetkov\VolgaIT_Kochetkov\obj\Debug\HTMLCodeReader.pdb
